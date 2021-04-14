@@ -49,7 +49,7 @@ namespace CodeEditorPresences {
 			return String.Empty;
 		}
 		static bool inicialized = false;
-		static DiscordRpcClient client = new DiscordRpcClient("831672372670889984");
+		static DiscordRpcClient client = new DiscordRpcClient("YOUR DISCORD APP ID HERE");
 
 		public static void CheckProcess() {
 
