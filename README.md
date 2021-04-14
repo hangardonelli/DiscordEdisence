@@ -7,14 +7,14 @@ I didn't bother to come up with a name for this project, basically DiscordEdiSen
 # 
 Currently it brings support for the following code editors, but if some charitable soul prefers to enlarge this list that would be very good :)
 
-# Dependencies
-
- - JSON.NET
- - DiscordRichPresence
- 
- 
 
  
  - VIM
  - Notepad++
  - Visual Studio Code
+ - 
+# Dependencies
+
+ - JSON.NET
+ - DiscordRichPresence
+ 
